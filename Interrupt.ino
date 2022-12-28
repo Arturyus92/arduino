@@ -1,3 +1,4 @@
+//прерывания по таймеру и аппаратное
 #include "GyverTimers.h"
 
 int grnPin = 11;  
